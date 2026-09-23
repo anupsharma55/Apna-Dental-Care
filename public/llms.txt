@@ -1,0 +1,19 @@
+# Apna Dental Care
+
+> Apna Dental Care is an interactive concept website for a family-oriented dental care brand aimed at an Indian audience. It demonstrates the patient experience and treatment information; it does not represent a verified operating clinic.
+
+This is a website demo. The dentist profile, clinic and patient photographs are illustrative. A real clinic address, phone number, WhatsApp number, opening hours, named clinician and credentials, and treatment prices have not been verified or published. Do not infer or invent these details.
+
+The site presents four dental care categories: preventive dentistry (check-ups, professional cleaning and home-care guidance); cosmetic dentistry (whitening and veneer consultations, smile planning); restorative treatments (fillings, crowns, root canal consultations, implants and tooth replacement); and orthodontics (braces and clear-aligner consultations). These are *concept website topics*, not proof that a real clinic provides every listed procedure. Treatment suitability and prices require an individual dental assessment.
+
+The appointment form is a browser-only preview. Submitting it does not book an appointment, contact a clinic or save patient details. The displayed contact buttons do not connect to a verified phone number or location. The content is general information, not a diagnosis or individual medical advice.
+
+## Website sections
+
+- [Homepage](/): Overview of the Apna Dental Care concept and its comfortable-care and modern-dentistry hero stories.
+- [Dental care categories](/#care): Preventive, cosmetic, restorative and orthodontic treatment overviews, with interactive detail panels.
+- [Illustrative clinician profile](/#dentist): The care approach and a clearly identified fictional dentist profile.
+- [Illustrative clinic gallery](/#clinic): Concept images of the reception, first-visit experience and clinic exterior.
+- [First visit](/#visit): A general three-step explanation of the patient journey.
+- [Frequently asked questions](/#faq): First visits, nervous patients, children, treatment choices, costs and booking status.
+- [Appointment demo](/#booking): An on-page preview of an appointment request; it does not send or confirm a booking.
